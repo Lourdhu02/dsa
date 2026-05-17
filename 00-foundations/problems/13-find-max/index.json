@@ -1,0 +1,5 @@
+{
+  "title": "Find max (loop invariant)",
+  "difficulty": "easy",
+  "tags": ["loop-invariant", "reduce"]
+}

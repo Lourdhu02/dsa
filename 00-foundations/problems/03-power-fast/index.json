@@ -1,0 +1,5 @@
+{
+  "title": "Fast power (a^n)",
+  "difficulty": "easy",
+  "tags": ["recursion", "divide-and-conquer", "logarithmic"]
+}

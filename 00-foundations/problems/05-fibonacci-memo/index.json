@@ -1,0 +1,5 @@
+{
+  "title": "Fibonacci (memoized)",
+  "difficulty": "easy",
+  "tags": ["recursion", "memoization", "introductory-dp"]
+}

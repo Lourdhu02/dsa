@@ -1,0 +1,19 @@
+# Core
+pytest>=8.0
+pytest-timeout>=2.3
+
+# Numerics and viz (used in notebooks and the capstone)
+numpy>=1.26
+matplotlib>=3.8
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.29
+
+# Capstone (HNSW comparison baseline) - optional, only needed for 14-capstone benchmark
+# Comment out if you don't want to install heavy deps
+# scikit-learn>=1.4
+
+# Dev quality (optional)
+# ruff>=0.4
+# black>=24.0

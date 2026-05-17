@@ -1,0 +1,5 @@
+{
+  "title": "Fibonacci (iterative, O(1) space)",
+  "difficulty": "easy",
+  "tags": ["math", "loop-invariant", "space-optimization"]
+}

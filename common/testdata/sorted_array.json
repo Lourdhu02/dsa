@@ -1,0 +1,6 @@
+{
+  "description": "Pre-sorted unique integers for binary search tests. Length 20, range [1, 200].",
+  "values": [3, 7, 11, 18, 25, 33, 42, 51, 60, 68, 79, 88, 95, 104, 117, 129, 138, 152, 167, 191],
+  "queries_present": [3, 42, 95, 191, 60],
+  "queries_missing": [0, 6, 100, 200, 50]
+}

@@ -1,0 +1,3 @@
+def critical_connections(n: int, connections: list[list[int]]) -> list[list[int]]:
+    # TODO
+    raise NotImplementedError

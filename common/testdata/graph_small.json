@@ -1,0 +1,25 @@
+{
+  "description": "Canonical 10-node directed weighted graph used in module 09. Edges chosen so Dijkstra and Bellman-Ford disagree under one negative-edge variant (see graph_small_negative.json).",
+  "nodes": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"],
+  "edges": [
+    ["A", "B", 4],
+    ["A", "C", 1],
+    ["C", "B", 2],
+    ["B", "D", 5],
+    ["C", "D", 8],
+    ["C", "E", 10],
+    ["D", "E", 2],
+    ["D", "F", 6],
+    ["E", "G", 3],
+    ["F", "G", 1],
+    ["G", "H", 4],
+    ["F", "I", 2],
+    ["I", "J", 1],
+    ["H", "J", 3]
+  ],
+  "directed": true,
+  "shortest_paths_from_A": {
+    "A": 0, "B": 3, "C": 1, "D": 8, "E": 10,
+    "F": 14, "G": 13, "H": 17, "I": 16, "J": 17
+  }
+}

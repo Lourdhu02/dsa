@@ -1,0 +1,5 @@
+{
+  "title": "Amortized append counter",
+  "difficulty": "medium",
+  "tags": ["amortized-analysis", "dynamic-array"]
+}
